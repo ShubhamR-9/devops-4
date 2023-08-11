@@ -5,4 +5,6 @@ git status
 git add
 git commit -m 
 git log
-git restore  
+git restore 
+git log --oneline 
+git log --oneline pretty 
